@@ -2,7 +2,7 @@ package com.antonkarpenko.ffmpegkit;
 
 import androidx.annotation.NonNull;
 
-import com.antonkarpenko.ffmpegkit.FFmpegKitConfig;
+import com.arthenica.ffmpegkit.FFmpegKitConfig;
 
 import io.flutter.plugin.common.MethodChannel;
 
